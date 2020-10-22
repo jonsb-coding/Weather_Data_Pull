@@ -40,6 +40,7 @@ This code will
   #### VacationPy Desctiption
   
   This code will
+  
     * First pull the data frame from WeatherPy 
     * Create a heat map for each location in the data frame and measure by humidity
     * Apply restrictions to the data frame and create new results data frame named hotel_df
