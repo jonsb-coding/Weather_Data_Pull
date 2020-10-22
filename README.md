@@ -1,11 +1,11 @@
 # python_api_challenge
 
-#### WetherPy Desctiption
+#### WeatherPy Desctiption
 
 This code will 
- > First compile a list of latitude and longitude and find the location name.
+ First compile a list of latitude and longitude and find the location name.
  
- > Run requests from the open weather map and collect data on...
+ Run requests from the open weather map and collect data on...
    
    * Name
    * Latitude
@@ -17,16 +17,16 @@ This code will
    * Country
    * Date
  
- > Export results to a dataframe 
+ Export results to a dataframe 
  
- > Create plots for...
+ Create plots for...
    
    * Temperature (F) vs. Latitude
    * Humidity (%) vs. Latitude
    * Cloudiness (%) vs. Latitude
    * Wind Speed (mph) vs. Latitude
  
- > Impose a linear regression for the following plots...
+ Impose a linear regression for the following plots...
    
    * Northern Hemisphere - Temperature (F) vs. Latitude
    * Southern Hemisphere - Temperature (F) vs. Latitude
@@ -36,3 +36,11 @@ This code will
    * Southern Hemisphere - Cloudiness (%) vs. Latitude
    * Northern Hemisphere - Wind Speed (mph) vs. Latitude
    * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+   
+  #### VacationPy Desctiption
+  
+  This code will
+    * First pull the data frame from WeatherPy 
+    * Create a heat map for each location in the data frame and measure by humidity
+    * Apply restrictions to the data frame and create new results data frame named hotel_df
+    * run a google maps api request to get closest hotel to citys in hotel_df and label locations on heat map
