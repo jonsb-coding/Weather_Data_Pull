@@ -41,7 +41,7 @@ This code will
   
   This code will
   
-    * First pull the data frame from WeatherPy 
-    * Create a heat map for each location in the data frame and measure by humidity
-    * Apply restrictions to the data frame and create new results data frame named hotel_df
-    * run a google maps api request to get closest hotel to citys in hotel_df and label locations on heat map
+   * First pull the data frame from WeatherPy
+   * Create a heat map for each location in the data frame and measure by humidity
+   * Apply restrictions to the data frame and create new results data frame named hotel_df 
+   * run a google maps api request to get closest hotel to citys in hotel_df and label locations on heat map
