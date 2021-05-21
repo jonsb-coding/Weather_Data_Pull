@@ -1,4 +1,4 @@
-# Data pulling and visualization
+# Weather Data Pulling and Visualization
 
 ## Summary
 In an effort to understand APIs and matplotlib, this program works to pull data from the openweathermap.org API and visualise certain relationships and conditionals.
